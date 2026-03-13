@@ -44,7 +44,7 @@ LLM & AI Engineering study session, concept + code walkthrough, Python + TypeScr
 
 ### Module 0: LLM Fundamentals
 - [x] M0-01 How LLMs work (tokens, context windows, temperature)
-- [ ] M0-02 Prompt engineering patterns (roles, few-shot, CoT)
+- [x] M0-02 Prompt engineering patterns (roles, few-shot, CoT)
 - [ ] M0-03 API anatomy (completions, chat, streaming)
 - [ ] M0-04 Local models with Ollama
 
@@ -82,4 +82,4 @@ LLM & AI Engineering study session, concept + code walkthrough, Python + TypeScr
 - [ ] M5-05 Deployment patterns (FastAPI + Next.js + LLM)
 
 ## Resume
-M0-01 done. Next: M0-02 Prompt engineering patterns.
+M0-02 done. Next: M0-03 API anatomy.

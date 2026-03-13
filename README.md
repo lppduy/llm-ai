@@ -40,7 +40,7 @@ Quick primers — cover these before touching any framework.
 | # | Topic | Status |
 |---|-------|--------|
 | 01 | How LLMs work (tokens, context windows, temperature) | [x] |
-| 02 | Prompt engineering patterns (roles, few-shot, CoT) | [ ] |
+| 02 | Prompt engineering patterns (roles, few-shot, CoT) | [x] |
 | 03 | API anatomy (completions, chat, streaming) | [ ] |
 | 04 | Local models with Ollama | [ ] |
 
