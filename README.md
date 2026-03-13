@@ -42,7 +42,7 @@ Quick primers — cover these before touching any framework.
 | 01 | How LLMs work (tokens, context windows, temperature) | [x] |
 | 02 | Prompt engineering patterns (roles, few-shot, CoT) | [x] |
 | 03 | API anatomy (completions, chat, streaming) | [x] |
-| 04 | Local models with Ollama | [ ] |
+| 04 | Local models with Ollama | [x] |
 
 ## Module 1: APIs & Model Routing
 
