@@ -51,8 +51,8 @@ LLM & AI Engineering study session, concept + code walkthrough, Python + TypeScr
 ### Module 1: APIs & Model Routing
 - [x] M1-01 OpenAI API (Python + TS)
 - [x] M1-02 Anthropic API (Python + TS)
-- [ ] M1-03 OpenRouter — unified multi-model API
-- [ ] M1-04 Model selection strategy (cost vs quality vs speed)
+- [x] M1-03 OpenRouter — unified multi-model API
+- [x] M1-04 Model selection strategy (cost vs quality vs speed)
 
 ### Module 2: Embeddings & Vector Search
 - [ ] M2-01 What embeddings are + similarity search
@@ -82,4 +82,4 @@ LLM & AI Engineering study session, concept + code walkthrough, Python + TypeScr
 - [ ] M5-05 Deployment patterns (FastAPI + Next.js + LLM)
 
 ## Resume
-M1-02 done. Next: M1-03 OpenRouter.
+Module 1 complete. Next: M2-01 Embeddings + similarity search.

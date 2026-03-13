@@ -52,8 +52,8 @@ Calling LLMs from code. Multiple providers, unified access.
 |---|-------|--------|
 | 01 | OpenAI API (Python + TS) | [x] |
 | 02 | Anthropic API (Python + TS) | [x] |
-| 03 | OpenRouter — unified multi-model API | [ ] |
-| 04 | Model selection strategy (cost vs quality vs speed) | [ ] |
+| 03 | OpenRouter — unified multi-model API | [x] |
+| 04 | Model selection strategy (cost vs quality vs speed) | [x] |
 
 ## Module 2: Embeddings & Vector Search
 
