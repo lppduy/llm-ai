@@ -50,8 +50,8 @@ Calling LLMs from code. Multiple providers, unified access.
 
 | # | Topic | Status |
 |---|-------|--------|
-| 01 | OpenAI API (Python + TS) | [ ] |
-| 02 | Anthropic API (Python + TS) | [ ] |
+| 01 | OpenAI API (Python + TS) | [x] |
+| 02 | Anthropic API (Python + TS) | [x] |
 | 03 | OpenRouter — unified multi-model API | [ ] |
 | 04 | Model selection strategy (cost vs quality vs speed) | [ ] |
 

@@ -49,8 +49,8 @@ LLM & AI Engineering study session, concept + code walkthrough, Python + TypeScr
 - [x] M0-04 Local models with Ollama
 
 ### Module 1: APIs & Model Routing
-- [ ] M1-01 OpenAI API (Python + TS)
-- [ ] M1-02 Anthropic API (Python + TS)
+- [x] M1-01 OpenAI API (Python + TS)
+- [x] M1-02 Anthropic API (Python + TS)
 - [ ] M1-03 OpenRouter — unified multi-model API
 - [ ] M1-04 Model selection strategy (cost vs quality vs speed)
 
@@ -82,4 +82,4 @@ LLM & AI Engineering study session, concept + code walkthrough, Python + TypeScr
 - [ ] M5-05 Deployment patterns (FastAPI + Next.js + LLM)
 
 ## Resume
-Module 0 complete. Next: M1-01 OpenAI API (Python + TS).
+M1-02 done. Next: M1-03 OpenRouter.
