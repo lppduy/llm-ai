@@ -96,11 +96,11 @@ Ship it. Cost, quality, observability.
 
 | # | Topic | Status |
 |---|-------|--------|
-| 01 | Cost optimization (caching, routing, prompt compression) | [ ] |
-| 02 | Evaluation — measuring LLM app quality | [ ] |
-| 03 | Observability (Langfuse / LangSmith) | [ ] |
-| 04 | Guardrails (input validation, output filtering) | [ ] |
-| 05 | Deployment patterns (FastAPI + Next.js + LLM) | [ ] |
+| 01 | Cost optimization (caching, routing, prompt compression) | [x] |
+| 02 | Evaluation — measuring LLM app quality | [x] |
+| 03 | Observability (Langfuse / LangSmith) | [x] |
+| 04 | Guardrails (input validation, output filtering) | [x] |
+| 05 | Deployment patterns (FastAPI + Next.js + LLM) | [x] |
 
 ---
 

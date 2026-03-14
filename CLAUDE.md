@@ -75,11 +75,11 @@ LLM & AI Engineering study session, concept + code walkthrough, Python + TypeScr
 - [x] M4-05 When agents make sense vs overkill
 
 ### Module 5: Production & Integration
-- [ ] M5-01 Cost optimization (caching, routing, prompt compression)
-- [ ] M5-02 Evaluation — measuring LLM app quality
-- [ ] M5-03 Observability (Langfuse / LangSmith)
-- [ ] M5-04 Guardrails (input validation, output filtering)
-- [ ] M5-05 Deployment patterns (FastAPI + Next.js + LLM)
+- [x] M5-01 Cost optimization (caching, routing, prompt compression)
+- [x] M5-02 Evaluation — measuring LLM app quality
+- [x] M5-03 Observability (Langfuse / LangSmith)
+- [x] M5-04 Guardrails (input validation, output filtering)
+- [x] M5-05 Deployment patterns (FastAPI + Next.js + LLM)
 
 ## Resume
-Module 4 complete. Next: M5-01 Cost optimization.
+All modules complete. Curriculum finished.
