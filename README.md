@@ -84,11 +84,11 @@ LLMs that can take actions, not just generate text.
 
 | # | Topic | Status |
 |---|-------|--------|
-| 01 | Tool/function calling (OpenAI + Anthropic format) | [ ] |
-| 02 | ReAct pattern (Reason → Act → Observe) | [ ] |
-| 03 | Building agents with LangGraph | [ ] |
-| 04 | Multi-agent systems | [ ] |
-| 05 | When agents make sense vs overkill | [ ] |
+| 01 | Tool/function calling (OpenAI + Anthropic format) | [x] |
+| 02 | ReAct pattern (Reason → Act → Observe) | [x] |
+| 03 | Building agents with LangGraph | [x] |
+| 04 | Multi-agent systems | [x] |
+| 05 | When agents make sense vs overkill | [x] |
 
 ## Module 5: Production & Integration
 

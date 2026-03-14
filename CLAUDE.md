@@ -68,11 +68,11 @@ LLM & AI Engineering study session, concept + code walkthrough, Python + TypeScr
 - [x] M3-05 Source citations + hallucination reduction
 
 ### Module 4: Agents & Tool Use
-- [ ] M4-01 Tool/function calling (OpenAI + Anthropic format)
-- [ ] M4-02 ReAct pattern (Reason → Act → Observe)
-- [ ] M4-03 Building agents with LangGraph
-- [ ] M4-04 Multi-agent systems
-- [ ] M4-05 When agents make sense vs overkill
+- [x] M4-01 Tool/function calling (OpenAI + Anthropic format)
+- [x] M4-02 ReAct pattern (Reason → Act → Observe)
+- [x] M4-03 Building agents with LangGraph
+- [x] M4-04 Multi-agent systems
+- [x] M4-05 When agents make sense vs overkill
 
 ### Module 5: Production & Integration
 - [ ] M5-01 Cost optimization (caching, routing, prompt compression)
@@ -82,4 +82,4 @@ LLM & AI Engineering study session, concept + code walkthrough, Python + TypeScr
 - [ ] M5-05 Deployment patterns (FastAPI + Next.js + LLM)
 
 ## Resume
-Module 3 complete. Next: M4-01 Tool/function calling.
+Module 4 complete. Next: M5-01 Cost optimization.
