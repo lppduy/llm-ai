@@ -61,10 +61,10 @@ Turn text into numbers. Search by meaning, not keywords.
 
 | # | Topic | Status |
 |---|-------|--------|
-| 01 | What embeddings are + similarity search | [ ] |
-| 02 | Embedding models (local vs cloud) | [ ] |
-| 03 | ChromaDB — store, query, filter | [ ] |
-| 04 | Chunking strategies | [ ] |
+| 01 | What embeddings are + similarity search | [x] |
+| 02 | Embedding models (local vs cloud) | [x] |
+| 03 | ChromaDB — store, query, filter | [x] |
+| 04 | Chunking strategies | [x] |
 
 ## Module 3: RAG (Retrieval-Augmented Generation)
 

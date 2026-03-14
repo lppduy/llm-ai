@@ -55,10 +55,10 @@ LLM & AI Engineering study session, concept + code walkthrough, Python + TypeScr
 - [x] M1-04 Model selection strategy (cost vs quality vs speed)
 
 ### Module 2: Embeddings & Vector Search
-- [ ] M2-01 What embeddings are + similarity search
-- [ ] M2-02 Embedding models (local vs cloud)
-- [ ] M2-03 ChromaDB — store, query, filter
-- [ ] M2-04 Chunking strategies
+- [x] M2-01 What embeddings are + similarity search
+- [x] M2-02 Embedding models (local vs cloud)
+- [x] M2-03 ChromaDB — store, query, filter
+- [x] M2-04 Chunking strategies
 
 ### Module 3: RAG
 - [ ] M3-01 RAG pipeline end-to-end
@@ -82,4 +82,4 @@ LLM & AI Engineering study session, concept + code walkthrough, Python + TypeScr
 - [ ] M5-05 Deployment patterns (FastAPI + Next.js + LLM)
 
 ## Resume
-Module 1 complete. Next: M2-01 Embeddings + similarity search.
+Module 2 complete. Next: M3-01 RAG pipeline end-to-end.
