@@ -61,11 +61,11 @@ LLM & AI Engineering study session, concept + code walkthrough, Python + TypeScr
 - [x] M2-04 Chunking strategies
 
 ### Module 3: RAG
-- [ ] M3-01 RAG pipeline end-to-end
-- [ ] M3-02 RAG with LlamaIndex
-- [ ] M3-03 RAG with LangChain
-- [ ] M3-04 Hybrid search + reranking
-- [ ] M3-05 Source citations + hallucination reduction
+- [x] M3-01 RAG pipeline end-to-end
+- [x] M3-02 RAG with LlamaIndex
+- [x] M3-03 RAG with LangChain
+- [x] M3-04 Hybrid search + reranking
+- [x] M3-05 Source citations + hallucination reduction
 
 ### Module 4: Agents & Tool Use
 - [ ] M4-01 Tool/function calling (OpenAI + Anthropic format)
@@ -82,4 +82,4 @@ LLM & AI Engineering study session, concept + code walkthrough, Python + TypeScr
 - [ ] M5-05 Deployment patterns (FastAPI + Next.js + LLM)
 
 ## Resume
-Module 2 complete. Next: M3-01 RAG pipeline end-to-end.
+Module 3 complete. Next: M4-01 Tool/function calling.

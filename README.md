@@ -72,11 +72,11 @@ Give LLMs access to your data without fine-tuning.
 
 | # | Topic | Status |
 |---|-------|--------|
-| 01 | RAG pipeline end-to-end | [ ] |
-| 02 | RAG with LlamaIndex | [ ] |
-| 03 | RAG with LangChain | [ ] |
-| 04 | Hybrid search + reranking | [ ] |
-| 05 | Source citations + hallucination reduction | [ ] |
+| 01 | RAG pipeline end-to-end | [x] |
+| 02 | RAG with LlamaIndex | [x] |
+| 03 | RAG with LangChain | [x] |
+| 04 | Hybrid search + reranking | [x] |
+| 05 | Source citations + hallucination reduction | [x] |
 
 ## Module 4: Agents & Tool Use
 
